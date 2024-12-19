@@ -462,8 +462,12 @@ div.info-layer p {
 }
 
 .contact-text-size {
+    width: 100%;
     font-size: 2rem;
-    color: white
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .contact-info {
