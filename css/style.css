@@ -415,7 +415,7 @@ div.info-layer {
     bottom: 0;
     gap: 10px;
     /* left: 0; */
-    background: linear-gradient(rgba(0, 0, 0, 0.1), var(--hover-colors));
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgb(0, 18, 139));
     display: flex;
     flex-direction: column;
     justify-content: center;
